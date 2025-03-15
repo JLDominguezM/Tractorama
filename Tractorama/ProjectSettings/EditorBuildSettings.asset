@@ -11,6 +11,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/TIENDA.unity
+    guid: b651a1948f5080ba797e8e0e3506ffbc
+  - enabled: 1
+    path: Assets/Scenes/VENTA.unity
+    guid: 3180b54464594c0c4827962e480482f2
+  - enabled: 1
+    path: Assets/Scenes/INVENTARIO.unity
+    guid: a00fe172470130be89f723f757cbf2d4
+  - enabled: 1
+    path: Assets/Scenes/MEJORAS.unity
+    guid: 8590f2413b7d4cdc8b258a457a30e6f8
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

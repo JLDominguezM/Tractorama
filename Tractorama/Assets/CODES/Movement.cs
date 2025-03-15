@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 public class PlayerController : MonoBehaviour
 {
-    public float velocidad = 50f;
+    public float velocidad = 10f;
 
     void Start()
     {
